@@ -1,1 +1,1 @@
-# Making circle art using turtle module
+# Building circle art using turtle module
